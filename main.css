@@ -1,0 +1,57 @@
+body{
+	background-color:#F8F8F8!important;
+}
+
+#profile-wrapper{
+	text-align: center;
+}
+
+#profile-pic{
+	width:150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+ul{
+	padding: 0;
+    list-style-type: none;
+}
+
+
+.image-links li{
+	list-style-type:none;
+	display: inline-block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+.image{
+	width:20;
+	height: 20px;
+}
+
+.social-links ul, li{
+	list-style-type:circle;
+	display: list-item;
+}
+
+.social{
+	width:20px;
+	height: 20px;
+}
+
+ .iconDetails {
+ margin-left:2%;
+float:left;
+height:45px;
+width:45px;
+}
+
+.container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
